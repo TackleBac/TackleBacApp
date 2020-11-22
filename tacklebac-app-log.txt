@@ -1,0 +1,5 @@
+Nov 17- Readded app and repo after build failed
+	
+Nov 19-	Added Auth login
+	workin on method to pass IOT data
+
