@@ -1,5 +1,7 @@
 # TackleBac
 
+Added Auth to app, logging in working and account creation
+ToDo: Add Sign out method
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
