@@ -1,5 +1,8 @@
-Nov 17- Readded app and repo after build failed
+Nov 17- Readded app and repo after build failed and deleting wrong files
 	
-Nov 19-	Added Auth login
-	workin on method to pass IOT data
+Nov 19-	Followed the AWS documentation to get a simple react app running
+	Added Auth signup and login
+	
+Nov 22- Trying to create a signout button after logging in
+	
 
