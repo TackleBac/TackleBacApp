@@ -4,5 +4,9 @@ Nov 19-	Followed the AWS documentation to get a simple react app running
 	Added Auth signup and login
 	
 Nov 22- Trying to create a signout button after logging in
+
+Nov 28- Checked online about AWS Rekognition cost €0.0001 per image
+
+Now 30- Waiting for Componentes to arrive, so setting up data to simulate data being sent, So I can setup the process through the cloud.
 	
 
