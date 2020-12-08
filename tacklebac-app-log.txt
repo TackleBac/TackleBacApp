@@ -10,3 +10,4 @@ Nov 28- Checked online about AWS Rekognition cost €0.0001 per image
 Now 30- Waiting for Componentes to arrive, so setting up data to simulate data being sent, So I can setup the process through the cloud.
 	
 
+Dec 8th - Various Issues with Internet connectivity, Udemy Down, AWS not connecting.   Sarted new process, and data is being sent from ESP32 to AWS IOT Subscribed Topic needs to be decoded as image is encoded as base64 in order to be sent to AWS. Lmbda is needed to decode base64 back into image.
