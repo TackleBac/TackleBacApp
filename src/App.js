@@ -42,7 +42,6 @@ const App = () => {
   }
 
   return (
-  <div> COMING SOON!!!! </div>
     <div style={styles.container}>
       <h2>TackleBac Project Todos</h2>
       <input
